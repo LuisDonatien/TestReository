@@ -1,0 +1,3 @@
+[submodule "SonSubModule"]
+	path = SonSubModule
+	url = https://github.com/LuisDonatien/SonSubModule.git
